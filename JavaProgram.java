@@ -4,4 +4,4 @@ public class SimpleJavaClass {
     System.out.println("Hello World!");
   }
 }
-//This is a comment in Java
+//this is a comment
